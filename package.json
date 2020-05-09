@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "react-framer-photo-animation",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "description": "Photo animation using framer motion and gatsby",
+  "version": "0.0.1",
+  "author": "Purvish Shah <purvish14@gmail.com>",
   "dependencies": {
     "framer-motion": "^1.10.3",
     "gatsby": "^2.21.13",
@@ -21,6 +21,7 @@
     "react-helmet": "^6.0.0"
   },
   "devDependencies": {
+    "gh-pages": "^2.2.0",
     "prettier": "2.0.5"
   },
   "keywords": [
