@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+}
+
+.section {
+  display: flex;
+  align-self: center;
+  flex-direction: row;
+}
+
+.sectionImageRow {
+  display: flex;
+  align-self: center;
+  flex-direction: row;
+}
+
+.sectionTitle {
+  font-family: "Playfair Display";
+  align-self: center;
+  font-size: 4rem;
+  z-index: 1;
+  color: #000;
+}
+
+.homeImages {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
